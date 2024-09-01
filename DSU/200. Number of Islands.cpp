@@ -47,7 +47,6 @@ private:
         {
             if(parent[i]==i && size[i]>1)
             {
-                cout<<parent[i]<<" ";
                 count++;
             }
         }
